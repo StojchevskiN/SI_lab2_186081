@@ -41,11 +41,9 @@ public class SILab2 {
             }
         }
         if (sum <= payment){
-            System.out.println("yo");
             return true;
         }
         else {
-            System.out.println("yo");
             return false;
         }
     }
